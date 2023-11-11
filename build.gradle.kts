@@ -1,4 +1,4 @@
-group = "dev.thriving.oss"
+group = "io.github.idkmss"
 
 plugins {
     alias(libs.plugins.publish)

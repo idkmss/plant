@@ -1,4 +1,4 @@
-package dev.thriving.oss.java.library.template;
+package org.plant;
 
 /**
  * Javadoc for {@link JavaLibraryTemplate}
